@@ -1,0 +1,12 @@
+.box {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid #000;
+}
+
+@media (max-width: 767px) {
+    .mobile {
+        background-color: #0997d3;
+    }
+}
